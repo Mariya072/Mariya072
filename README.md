@@ -27,6 +27,6 @@
 
 ![Mariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariya072&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariya072E&layout=compact)](https://github.com/Mariya072/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariya072&layout=compact)](https://github.com/Mariya072/github-readme-stats)
 
 
