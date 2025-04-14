@@ -1,5 +1,5 @@
-## Hi there 👋
-<h2> Hey there! I'm Mariya 👋 </h2>
+
+ ##Hey there! I'm Mariya 👋 
 💻 ECE + ML Enthusiast | ✨ Building with Data | 💥 Passionate about turning signals into stories
 
 ---
