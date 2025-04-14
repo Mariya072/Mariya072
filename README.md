@@ -1,16 +1,32 @@
 ## Hi there 👋
+<h2> Hey there! I'm Mariya 👋 </h2>
+💻 ECE + ML Enthusiast | ✨ Building with Data | 💥 Passionate about turning signals into stories
 
-<!--
-**Mariya072/Mariya072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔗 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mariya-manoj-25896b256)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack:
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-purple?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-lightblue?style=flat-square&logo=numpy)
+![scikit-learn](https://img.shields.io/badge/-Scikit--learn-orange?style=flat-square&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visual-studio-code)
+
+---
+
+### 📊 GitHub Stats:
+
+![Mariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/YOUR_USERNAME/github-readme-stats)
+
+
