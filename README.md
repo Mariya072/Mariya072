@@ -25,8 +25,8 @@
 
 ### 📊 GitHub Stats:
 
-![Mariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Mariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariya072&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/YOUR_USERNAME/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariya072E&layout=compact)](https://github.com/Mariya072/github-readme-stats)
 
 
